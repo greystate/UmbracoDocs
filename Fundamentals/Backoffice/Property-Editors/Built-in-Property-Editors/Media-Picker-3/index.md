@@ -16,7 +16,7 @@ This property editors returns a single `MediaWithCrops` item if the "Pick multip
 
 ### Accepted types
 
-Use setting to limit the picker to only select Media Items of these types.
+Use this setting to limit the picker to only select Media Items of these types.
 
 ### Pick multiple items
 
@@ -32,7 +32,7 @@ Use this setting to enforce a minimum and/or maximum amount of selected Media It
 
 This setting is used to limit the Media Picker to certain parts of the Media Tree.
 
-### Ignorer user start nodes
+### Ignore User Start Nodes
 
 Use this setting to overrule user permissions, to enable any user of this property to pick any Media Item of the chosen Start node.
 
@@ -40,7 +40,7 @@ When this setting is enabled, a user who doesn't normally have access to the med
 
 ### Enable Focal Point
 
-Enable the focal point setter, do only enable this if the focal point is used or if you have Image crops defined.
+Enable the focal point setter. You should only enable this if the focal point is used or if you have Image crops defined.
 
 ### Image Crops
 
